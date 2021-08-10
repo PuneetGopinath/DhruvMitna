@@ -54,4 +54,4 @@ and more on the way...
 
 ## My coding time stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvmitna&hide_progress=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![dhruvmitna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvmitna&hide_progress=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
