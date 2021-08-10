@@ -43,3 +43,9 @@ and more on the way...
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=spammer&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/spammer)
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=rootfolder-template&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/rootfolder-template)
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=randoms&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/randoms)
+
+---
+
+## My top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmitna&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
