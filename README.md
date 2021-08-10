@@ -35,6 +35,8 @@ and more on the way...
 
 ---
 
+<br />
+
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvmitna&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned repositories
@@ -47,16 +49,10 @@ and more on the way...
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=rootfolder-template&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/rootfolder-template)
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=randoms&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/randoms)
 
-<br />
-
 ## My top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmitna&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-
 ## My coding time stats
 
 [![dhruvmitna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvmitna&hide_progress=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
