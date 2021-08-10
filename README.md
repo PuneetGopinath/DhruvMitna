@@ -1,10 +1,14 @@
 ### Hullo! My name is [Dhruv Mitna](https://github.com/DhruvMitna)
 
+<br />
+
 ## About me
 
 - I like reading, learning new things, coding and cycling!
 - I am from India.
 - I develop console apps
+
+<br />
 
 ## Contact me
 
@@ -12,6 +16,8 @@
 [<img align="left" alt="DhruvMitna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" />](https://www.instagram.com/d.h.r.u.v.69/)
 [<img align="left" alt="DhruvMitna | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/gmail.svg" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPjphDrXTWtRdgFxlSMDbWbJkPMhGmHBVQhplMxQfpJNNbNPfFMGmLlxmzsNXkMVpPL)
 [<img align="left" alt="DhruvMitna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" />](https://twitter.com/DhruvMitna)
+
+<br />
 
 ## Tools and languages
 
@@ -26,13 +32,10 @@
 and more on the way...
 
 <br />
-<br />
 
 ---
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvmitna&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=stats)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## Pinned repositories
 
@@ -44,14 +47,16 @@ and more on the way...
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=rootfolder-template&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/rootfolder-template)
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=randoms&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/randoms)
 
----
+<br />
 
 ## My top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmitna&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<br />
 
 ## My coding time stats
 
 [![dhruvmitna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvmitna&hide_progress=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
