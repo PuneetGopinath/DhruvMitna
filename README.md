@@ -48,4 +48,4 @@ and more on the way...
 
 ## My top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmitna&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmitna&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
