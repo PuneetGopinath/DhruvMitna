@@ -27,3 +27,7 @@ and more on the way...
 
 <br />
 <br />
+
+---
+
+<img align="left" alt="DhruvMitna's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DhruvMitna&show_icons=true&hide_border=true" />
