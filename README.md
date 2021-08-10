@@ -32,10 +32,14 @@ and more on the way...
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvmitna&count_private=true&show_icons=true&theme=radical&hide_border=true&border_rdius=0&include_all_commits=true&custom_title=stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=password-generator)](https://github.com/DhruvMitna/password-generator)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=blackjack)](https://github.com/DhruvMitna/blackjack)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=guess-the-number)](https://github.com/DhruvMitna/guess-the-number)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=combination-finder)](https://github.com/DhruvMitna/combination-finder)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=spammer)](https://github.com/DhruvMitna/spammer)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=rootfolder-template)](https://github.com/DhruvMitna/rootfolder-template)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=randoms)](https://github.com/DhruvMitna/randoms)
+---
+
+## Pinned repositories
+
+[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=password-generator&theme=radical)](https://github.com/DhruvMitna/password-generator)
+[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=blackjack&theme=radical)](https://github.com/DhruvMitna/blackjack)
+[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=guess-the-number&theme=radical)](https://github.com/DhruvMitna/guess-the-number)
+[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=combination-finder&theme=radical)](https://github.com/DhruvMitna/combination-finder)
+[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=spammer&theme=radical)](https://github.com/DhruvMitna/spammer)
+[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=rootfolder-template&theme=radical)](https://github.com/DhruvMitna/rootfolder-template)
+[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=randoms&theme=radical)](https://github.com/DhruvMitna/randoms)
