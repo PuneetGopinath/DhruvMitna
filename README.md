@@ -49,3 +49,9 @@ and more on the way...
 ## My top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmitna&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## My coding time stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvmitna&hide_progress=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
