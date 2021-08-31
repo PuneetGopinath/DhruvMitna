@@ -12,10 +12,10 @@
 
 ## Contact me
 
-[<img align="left" alt="reddit" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/reddit.svg" />](https://reddit.com/u/DhruvMitna)
-[<img align="left" alt="DhruvMitna | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" />](https://www.instagram.com/d.h.r.u.v.69/)
-[<img align="left" alt="DhruvMitna | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/gmail.svg" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPjphDrXTWtRdgFxlSMDbWbJkPMhGmHBVQhplMxQfpJNNbNPfFMGmLlxmzsNXkMVpPL)
-[<img align="left" alt="DhruvMitna | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" />](https://twitter.com/DhruvMitna)
+[<img align="left" alt="reddit" width="50px" src="https://image.flaticon.com/icons/png/512/2111/2111589.png" />](https://reddit.com/u/DhruvMitna)
+[<img align="left" alt="DhruvMitna | Instagram" width="50px" src="https://image.flaticon.com/icons/png/512/733/733558.png" />](https://www.instagram.com/d.h.r.u.v.69/)
+[<img align="left" alt="DhruvMitna | Gmail" width="50px" src="https://image.flaticon.com/icons/png/512/552/552486.png" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPjphDrXTWtRdgFxlSMDbWbJkPMhGmHBVQhplMxQfpJNNbNPfFMGmLlxmzsNXkMVpPL)
+[<img align="left" alt="DhruvMitna | Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />](https://twitter.com/DhruvMitna)
 
 <br />
 <br />
