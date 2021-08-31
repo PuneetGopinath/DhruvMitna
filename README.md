@@ -4,7 +4,7 @@
 
 ## About me
 
-- I like reading, learning new things and coding!
+- I like reading, solving rubix's cubes, learning new things and coding!
 - I am from India.
 - I develop console apps
 
