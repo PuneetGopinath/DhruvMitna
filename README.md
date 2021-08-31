@@ -1,4 +1,4 @@
-### Hullo! My name is [Dhruv Mitna](https://github.com/DhruvMitna)
+### Hello! My name is [Dhruv Mitna](https://github.com/DhruvMitna)
 
 <br />
 
