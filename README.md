@@ -22,11 +22,12 @@
 [<img align="left" alt="DhruvMitna | Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />](https://twitter.com/DhruvMitna)
 
 <br />
-<br />
 
 ---
 
 <br />
+
+## Stats
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvmitna&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,13 +40,15 @@
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=rootfolder-template&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/rootfolder-template)
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=randoms&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/randoms) -->
 
-## My top languages
+### Languages
 
 <br />
 
+###
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmitna&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My coding time stats
+### Time stats
 
 <br />
 
