@@ -4,6 +4,8 @@
 
 ## About me
 
+<br />
+
 - I like reading, solving rubix's cubes, learning new things and coding!
 - I am from India.
 - I develop console apps
@@ -11,6 +13,8 @@
 <br />
 
 ## Contact me
+
+<br />
 
 [<img align="left" alt="reddit" width="50px" src="https://image.flaticon.com/icons/png/512/2111/2111589.png" />](https://reddit.com/u/DhruvMitna)
 [<img align="left" alt="DhruvMitna | Instagram" width="50px" src="https://image.flaticon.com/icons/png/512/733/733558.png" />](https://www.instagram.com/d.h.r.u.v.69/)
@@ -37,8 +41,12 @@
 
 ## My top languages
 
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmitna&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My coding time stats
+
+<br />
 
 [![dhruvmitna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvmitna&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
