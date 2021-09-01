@@ -22,8 +22,10 @@
 [<img align="left" alt="DhruvMitna | Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />](https://twitter.com/DhruvMitna)
 
 <br />
+<br />
 
 ## Stats
+
 <br />
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvmitna&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=stats)](https://github.com/anuraghazra/github-readme-stats)
