@@ -32,7 +32,7 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvmitna&theme=radical)](https://github.com/ryo-ma/github-profile-trophy&margin-w=20&margin-h=20)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvmitna&theme=radical&margin-w=20&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ## Pinned repositories
 
