@@ -38,6 +38,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhruvmitna&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+<br />
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhruvmitna&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- ## Pinned repositories
 
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=password-generator&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/password-generator)
