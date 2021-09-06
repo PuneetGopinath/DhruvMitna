@@ -30,6 +30,10 @@
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvmitna&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ## Pinned repositories
 
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=password-generator&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/password-generator)
