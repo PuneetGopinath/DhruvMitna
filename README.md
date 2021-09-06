@@ -66,3 +66,7 @@
 <br />
 
 [![dhruvmitna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvmitna&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hide_border&theme=radical)
