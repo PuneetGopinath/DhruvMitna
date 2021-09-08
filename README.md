@@ -1,6 +1,6 @@
 ### Hello! My name is [Dhruv Mitna](https://github.com/DhruvMitna).
 
-![](https://komarev.com/ghpvc/?username=dhruvmitna&color=19191f)
+![](https://komarev.com/ghpvc/?username=dhruvmitna&color=19191f&style=flat-square)
 
 <br />
 
