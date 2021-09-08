@@ -1,4 +1,4 @@
-### Hello! My name is [Dhruv Mitna](https://github.com/DhruvMitna)
+### Hello! My name is [Dhruv Mitna](https://github.com/DhruvMitna).
 
 <br />
 
@@ -8,7 +8,7 @@
 
 - I like reading, solving rubix's cubes, learning new things and coding!
 - I am from India.
-- I develop console apps
+- I develop console apps.
 
 <br />
 
