@@ -26,7 +26,7 @@
 
 ## Recent activity
 
-
+<!--START_SECTION:activity-->
 
 <br />
 
