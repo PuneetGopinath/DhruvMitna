@@ -44,12 +44,9 @@
 
 <!-- ## Pinned repositories
 
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=password-generator&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/password-generator)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=blackjack&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/blackjack)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=guess-the-number&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/guess-the-number)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=combination-finder&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/combination-finder)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=rootfolder-template&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/rootfolder-template)
-[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=randoms&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/randoms) -->
+[![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=repo-name&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/repo-name)
+
+-->
 
 <br />
 
