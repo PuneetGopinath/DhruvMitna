@@ -12,7 +12,9 @@
 
 <br />
 
-[My profile summary](https://profile-summary-for-github.com/user/dhruvmitna)
+<a href = "https://profile-summary-for-github.com/user/dhruvmitna", target =_blank>My profile summary</a>
+
+<!-- [My profile summary](https://profile-summary-for-github.com/user/dhruvmitna) -->
 
 <br />
 
