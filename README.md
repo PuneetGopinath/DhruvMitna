@@ -1,5 +1,7 @@
 ### Hello! My name is [Dhruv Mitna](https://github.com/DhruvMitna).
 
+![](https://komarev.com/ghpvc/?username=dhruvmitna&color=19191f)
+
 <br />
 
 ## About me
