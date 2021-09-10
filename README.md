@@ -64,6 +64,14 @@ Last Updated: Friday, September 10th, 2021, 12:58:11 PM
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhruvmitna&theme=redical&hide_border=true&custom_title=Activity%20graph&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br />
+
+A snake eating my contribution graph
+
+<p align="center">
+  <img src="https://github.com/dhruvmitna/dhruvmitna/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <!-- ## Pinned repositories
 
 [![Pinned repository](https://github-readme-stats.vercel.app/api/pin/?username=dhruvmitna&repo=repo-name&theme=radical&show_owner=true&hide_border=true)](https://github.com/DhruvMitna/repo-name)
