@@ -69,7 +69,7 @@ Last Updated: Friday, September 10th, 2021, 12:58:11 PM
 A snake eating my contribution graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DhruvMitna/DhruvMitna/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/DhruvMitna/DhruvMitna/output/github-contribution-grid-snake.svg">
 </p>
 
 <!-- ## Pinned repositories
