@@ -34,6 +34,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
+
 <br />
 
 ## Stats
