@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#57](https://github.com/Welcome-Bot/discord-pagination/pull/57) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ✔️ Closed issue [#48](https://github.com/Welcome-Bot/discord-pagination/issues/48) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. 🎉 Merged PR [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. 💪 Opened PR [#57](https://github.com/Welcome-Bot/discord-pagination/pull/57) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. 📔 Created new repository [TelegramNodeJS/TJS](https://github.com/TelegramNodeJS/TJS)
+1. 💪 Opened PR [#272](https://github.com/Welcome-Bot/welcome-bot/pull/272) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. 🎉 Merged PR [#57](https://github.com/Welcome-Bot/discord-pagination/pull/57) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ✔️ Closed issue [#48](https://github.com/Welcome-Bot/discord-pagination/issues/48) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. 🎉 Merged PR [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. 💪 Opened PR [#57](https://github.com/Welcome-Bot/discord-pagination/pull/57) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 13:46:43:629 13/09/2021 +0000
+Last Updated: 14:43:57:989 13/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
