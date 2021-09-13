@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/raravel/neuro-umd/pull/1) in [raravel/neuro-umd](https://github.com/raravel/neuro-umd)
-2. 🔱 Forked [PuneetGopinath/neuro-umd](https://github.com/PuneetGopinath/neuro-umd) from [raravel/neuro-umd](https://github.com/raravel/neuro-umd)
-3. 🔱 Forked [PuneetGopinath/neuro](https://github.com/PuneetGopinath/neuro) from [intelligo-mn/neuro](https://github.com/intelligo-mn/neuro)
+1. 🎉 Merged PR [#272](https://github.com/Welcome-Bot/welcome-bot/pull/272) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. 💪 Opened PR [#1](https://github.com/raravel/neuro-umd/pull/1) in [raravel/neuro-umd](https://github.com/raravel/neuro-umd)
+3. 🔱 Forked [PuneetGopinath/neuro-umd](https://github.com/PuneetGopinath/neuro-umd) from [raravel/neuro-umd](https://github.com/raravel/neuro-umd)
 4. 🔱 Forked [PuneetGopinath/neuro](https://github.com/PuneetGopinath/neuro) from [intelligo-mn/neuro](https://github.com/intelligo-mn/neuro)
-5. 🎉 Merged PR [#273](https://github.com/Welcome-Bot/welcome-bot/pull/273) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. 🔱 Forked [PuneetGopinath/neuro](https://github.com/PuneetGopinath/neuro) from [intelligo-mn/neuro](https://github.com/intelligo-mn/neuro)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 18:53:11:525 13/09/2021 +0000
+Last Updated: 19:43:14:171 13/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
