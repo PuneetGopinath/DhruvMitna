@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#289](https://github.com/Welcome-Bot/welcome-bot/pull/289) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. 👍 Approved [#289](https://github.com/Welcome-Bot/welcome-bot/pull/289#pullrequestreview-758806993) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. 🎉 Merged PR [#288](https://github.com/Welcome-Bot/welcome-bot/pull/288) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. 👍 Approved [#288](https://github.com/Welcome-Bot/welcome-bot/pull/288#pullrequestreview-758806507) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. 🎉 Merged PR [#287](https://github.com/Welcome-Bot/welcome-bot/pull/287) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. 🎉 Merged PR [#69](https://github.com/Welcome-Bot/discord-pagination/pull/69) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. 👍 Approved [#69](https://github.com/Welcome-Bot/discord-pagination/pull/69#pullrequestreview-759211810) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. 🎉 Merged PR [#68](https://github.com/Welcome-Bot/discord-pagination/pull/68) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. 👍 Approved [#68](https://github.com/Welcome-Bot/discord-pagination/pull/68#pullrequestreview-759211620) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. 🎉 Merged PR [#67](https://github.com/Welcome-Bot/discord-pagination/pull/67) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 04:42:07:078 21/09/2021 +0000
+Last Updated: 06:19:52:727 21/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
