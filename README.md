@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/DisList-site/DisList/pull/8) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-2. 💪 Opened PR [#8](https://github.com/DisList-site/DisList/pull/8) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-3. ❌ Closed PR [#7](https://github.com/DisList-site/DisList/pull/7) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-4. 🎉 Merged PR [#5](https://github.com/DisList-site/DisList/pull/5) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-5. 👍 Approved [#5](https://github.com/DisList-site/DisList/pull/5#pullrequestreview-763590713) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+1. 🎉 Merged PR [#72](https://github.com/Welcome-Bot/discord-pagination/pull/72) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. 💪 Opened PR [#72](https://github.com/Welcome-Bot/discord-pagination/pull/72) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. 🎉 Merged PR [#8](https://github.com/DisList-site/DisList/pull/8) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+4. 💪 Opened PR [#8](https://github.com/DisList-site/DisList/pull/8) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+5. ❌ Closed PR [#7](https://github.com/DisList-site/DisList/pull/7) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 19:42:38:489 25/09/2021 +0000
+Last Updated: 20:43:54:870 25/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
