@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#72](https://github.com/Welcome-Bot/discord-pagination/pull/72) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. 💪 Opened PR [#72](https://github.com/Welcome-Bot/discord-pagination/pull/72) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. 🎉 Merged PR [#8](https://github.com/DisList-site/DisList/pull/8) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-4. 💪 Opened PR [#8](https://github.com/DisList-site/DisList/pull/8) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-5. ❌ Closed PR [#7](https://github.com/DisList-site/DisList/pull/7) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+1. 🎉 Merged PR [#9](https://github.com/DisList-site/DisList/pull/9) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+2. ❗️ Opened issue [#10](https://github.com/DisList-site/DisList/issues/10) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+3. 👍 Approved [#9](https://github.com/DisList-site/DisList/pull/9#pullrequestreview-763612964) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+4. 🎉 Merged PR [#72](https://github.com/Welcome-Bot/discord-pagination/pull/72) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. 💪 Opened PR [#72](https://github.com/Welcome-Bot/discord-pagination/pull/72) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 21:50:53:325 25/09/2021 +0000
+Last Updated: 22:46:19:714 25/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
