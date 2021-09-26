@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/DisList-site/DisList/pull/2) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-2. 👍 Approved [#15](https://github.com/Welcome-Bot/stats-api/pull/15#pullrequestreview-763662900) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
-3. 🎉 Merged PR [#11](https://github.com/DisList-site/DisList/pull/11) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-4. 💪 Opened PR [#11](https://github.com/DisList-site/DisList/pull/11) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-5. 🎉 Merged PR [#9](https://github.com/DisList-site/DisList/pull/9) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+1. ❗️ Opened issue [#16](https://github.com/Welcome-Bot/stats-api/issues/16) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+2. 🎉 Merged PR [#15](https://github.com/Welcome-Bot/stats-api/pull/15) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+3. 🎉 Merged PR [#2](https://github.com/DisList-site/DisList/pull/2) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+4. 👍 Approved [#15](https://github.com/Welcome-Bot/stats-api/pull/15#pullrequestreview-763662900) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+5. 🎉 Merged PR [#11](https://github.com/DisList-site/DisList/pull/11) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 13:45:58:936 26/09/2021 +0000
+Last Updated: 14:43:13:336 26/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
