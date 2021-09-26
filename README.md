@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#15](https://github.com/DisList-site/DisList/pull/15) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-2. ❗️ Opened issue [#14](https://github.com/DisList-site/DisList/issues/14) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-3. ❗️ Opened issue [#13](https://github.com/DisList-site/DisList/issues/13) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-4. 🔱 Forked [PuneetGopinath/DisList](https://github.com/PuneetGopinath/DisList) from [DisList-site/DisList](https://github.com/DisList-site/DisList)
-5. ❌ Closed PR [#12](https://github.com/DisList-site/DisList/pull/12) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+1. 🎉 Merged PR [#16](https://github.com/DisList-site/DisList/pull/16) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+2. 👍 Approved [#16](https://github.com/DisList-site/DisList/pull/16#pullrequestreview-763711233) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+3. 💪 Opened PR [#15](https://github.com/DisList-site/DisList/pull/15) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+4. ❗️ Opened issue [#14](https://github.com/DisList-site/DisList/issues/14) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+5. ❗️ Opened issue [#13](https://github.com/DisList-site/DisList/issues/13) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 20:44:25:796 26/09/2021 +0000
+Last Updated: 21:50:33:614 26/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
