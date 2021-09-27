@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. 💪 Opened PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ❗️ Opened issue [#20](https://github.com/DisList-site/DisList/issues/20) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-4. ❗️ Opened issue [#19](https://github.com/DisList-site/DisList/issues/19) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-5. ❗️ Opened issue [#18](https://github.com/DisList-site/DisList/issues/18) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+1. 👍 Approved [#302](https://github.com/Welcome-Bot/welcome-bot/pull/302#pullrequestreview-763941096) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. 👍 Approved [#301](https://github.com/Welcome-Bot/welcome-bot/pull/301#pullrequestreview-763940822) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. 🎉 Merged PR [#300](https://github.com/Welcome-Bot/welcome-bot/pull/300) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. 👍 Approved [#300](https://github.com/Welcome-Bot/welcome-bot/pull/300#pullrequestreview-763940425) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. 🎉 Merged PR [#294](https://github.com/Welcome-Bot/welcome-bot/pull/294) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 12:44:23:776 27/09/2021 +0000
+Last Updated: 13:47:15:032 27/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
