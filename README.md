@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#302](https://github.com/Welcome-Bot/welcome-bot/pull/302#pullrequestreview-763941096) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. 👍 Approved [#301](https://github.com/Welcome-Bot/welcome-bot/pull/301#pullrequestreview-763940822) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. 🎉 Merged PR [#300](https://github.com/Welcome-Bot/welcome-bot/pull/300) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. 👍 Approved [#300](https://github.com/Welcome-Bot/welcome-bot/pull/300#pullrequestreview-763940425) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. 🎉 Merged PR [#294](https://github.com/Welcome-Bot/welcome-bot/pull/294) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. 🎉 Merged PR [#15](https://github.com/UpList-site/UpList/pull/15) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+2. 🎉 Merged PR [#23](https://github.com/UpList-site/UpList/pull/23) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+3. 👍 Approved [#23](https://github.com/UpList-site/UpList/pull/23#pullrequestreview-764257901) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+4. ❌ Closed PR [#21](https://github.com/UpList-site/UpList/pull/21) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+5. ❌ Closed PR [#22](https://github.com/UpList-site/UpList/pull/22) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 17:54:04:825 27/09/2021 +0000
+Last Updated: 18:51:00:309 27/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
