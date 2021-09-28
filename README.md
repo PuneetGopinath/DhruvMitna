@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#15](https://github.com/UpList-site/UpList/pull/15) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
-2. 🎉 Merged PR [#23](https://github.com/UpList-site/UpList/pull/23) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
-3. 👍 Approved [#23](https://github.com/UpList-site/UpList/pull/23#pullrequestreview-764257901) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
-4. ❌ Closed PR [#21](https://github.com/UpList-site/UpList/pull/21) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
-5. ❌ Closed PR [#22](https://github.com/UpList-site/UpList/pull/22) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+1. 🎉 Merged PR [#74](https://github.com/Welcome-Bot/discord-pagination/pull/74) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. 👍 Approved [#74](https://github.com/Welcome-Bot/discord-pagination/pull/74#pullrequestreview-764873181) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. 🎉 Merged PR [#75](https://github.com/Welcome-Bot/discord-pagination/pull/75) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. 👍 Approved [#75](https://github.com/Welcome-Bot/discord-pagination/pull/75#pullrequestreview-764872090) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. 🎉 Merged PR [#73](https://github.com/Welcome-Bot/discord-pagination/pull/73) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 06:20:07:705 28/09/2021 +0000
+Last Updated: 07:29:36:064 28/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
