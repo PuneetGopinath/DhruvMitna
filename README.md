@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#27](https://github.com/UpList-site/UpList/pull/27) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
-2. 💪 Opened PR [#27](https://github.com/UpList-site/UpList/pull/27) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
-3. 🎉 Merged PR [#26](https://github.com/UpList-site/UpList/pull/26) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
-4. 💪 Opened PR [#26](https://github.com/UpList-site/UpList/pull/26) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
-5. 🎉 Merged PR [#24](https://github.com/UpList-site/UpList/pull/24) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+1. 🎉 Merged PR [#306](https://github.com/Welcome-Bot/welcome-bot/pull/306) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. 👍 Approved [#306](https://github.com/Welcome-Bot/welcome-bot/pull/306#pullrequestreview-766554600) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. 🎉 Merged PR [#27](https://github.com/UpList-site/UpList/pull/27) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+4. 💪 Opened PR [#27](https://github.com/UpList-site/UpList/pull/27) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+5. 🎉 Merged PR [#26](https://github.com/UpList-site/UpList/pull/26) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 16:41:39:125 29/09/2021 +0000
+Last Updated: 17:52:41:233 29/09/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
