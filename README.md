@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#36](https://github.com/DisWeb-site/DisWeb/pull/36) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-2. 🎉 Merged PR [#35](https://github.com/DisWeb-site/DisWeb/pull/35) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-3. 👍 Approved [#35](https://github.com/DisWeb-site/DisWeb/pull/35#pullrequestreview-770951525) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-4. 👍 Approved [#119](https://github.com/Readme-Workflows/recent-activity/pull/119#pullrequestreview-770914041) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🎉 Merged PR [#77](https://github.com/Welcome-Bot/discord-pagination/pull/77) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. 🎉 Merged PR [#315](https://github.com/Welcome-Bot/welcome-bot/pull/315) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. 👍 Approved [#315](https://github.com/Welcome-Bot/welcome-bot/pull/315#pullrequestreview-771310953) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. 🎉 Merged PR [#314](https://github.com/Welcome-Bot/welcome-bot/pull/314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. 👍 Approved [#314](https://github.com/Welcome-Bot/welcome-bot/pull/314#pullrequestreview-771310563) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. 💪 Opened PR [#36](https://github.com/DisWeb-site/DisWeb/pull/36) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 16:41:47:285 5/10/2021 +0000
+Last Updated: 17:52:47:411 5/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
