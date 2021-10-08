@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [PuneetGopinath/bot](https://github.com/PuneetGopinath/bot) from [discord-tickets/bot](https://github.com/discord-tickets/bot)
-2. 🎉 Merged PR [#42](https://github.com/DisWeb-site/DisWeb/pull/42) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-3. 💪 Opened PR [#42](https://github.com/DisWeb-site/DisWeb/pull/42) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-4. 🎉 Merged PR [#316](https://github.com/Welcome-Bot/welcome-bot/pull/316) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. 👍 Approved [#316](https://github.com/Welcome-Bot/welcome-bot/pull/316#pullrequestreview-772522986) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. 🎉 Merged PR [#1](https://github.com/PuneetGopinath/tickets-bot/pull/1) in [PuneetGopinath/tickets-bot](https://github.com/PuneetGopinath/tickets-bot)
+2. 💪 Opened PR [#1](https://github.com/PuneetGopinath/tickets-bot/pull/1) in [PuneetGopinath/tickets-bot](https://github.com/PuneetGopinath/tickets-bot)
+3. 🔱 Forked [PuneetGopinath/bot](https://github.com/PuneetGopinath/bot) from [discord-tickets/bot](https://github.com/discord-tickets/bot)
+4. 🎉 Merged PR [#42](https://github.com/DisWeb-site/DisWeb/pull/42) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+5. 💪 Opened PR [#42](https://github.com/DisWeb-site/DisWeb/pull/42) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 04:44:14:155 8/10/2021 +0000
+Last Updated: 06:23:56:130 8/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
