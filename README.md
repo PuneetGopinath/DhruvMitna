@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#121](https://github.com/Readme-Workflows/recent-activity/pull/121) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 👍 Approved [#120](https://github.com/Readme-Workflows/recent-activity/pull/120#pullrequestreview-775636288) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 🔴 Requested changes in [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1#pullrequestreview-775592442) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-4. 🔴 Requested changes in [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1#pullrequestreview-775592442) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-5. 🎉 Merged PR [#320](https://github.com/Welcome-Bot/welcome-bot/pull/320) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. 🎉 Merged PR [#322](https://github.com/Welcome-Bot/welcome-bot/pull/322) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ✔️ Closed issue [#188](https://github.com/Welcome-Bot/welcome-bot/issues/188) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. 👍 Approved [#322](https://github.com/Welcome-Bot/welcome-bot/pull/322#pullrequestreview-775687581) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. 🔴 Requested changes in [#322](https://github.com/Welcome-Bot/welcome-bot/pull/322#pullrequestreview-775687344) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. 🔴 Requested changes in [#322](https://github.com/Welcome-Bot/welcome-bot/pull/322#pullrequestreview-775687344) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 20:44:13:905 10/10/2021 +0000
+Last Updated: 21:50:59:775 10/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
