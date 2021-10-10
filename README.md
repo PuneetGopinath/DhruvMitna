@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested changes in [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1#pullrequestreview-775592442) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-2. 🔴 Requested changes in [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1#pullrequestreview-775592442) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-3. 🎉 Merged PR [#320](https://github.com/Welcome-Bot/welcome-bot/pull/320) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. 👍 Approved [#320](https://github.com/Welcome-Bot/welcome-bot/pull/320#pullrequestreview-775584232) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. 🎉 Merged PR [#46](https://github.com/DisWeb-site/DisWeb/pull/46) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+1. ❌ Closed PR [#121](https://github.com/Readme-Workflows/recent-activity/pull/121) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 👍 Approved [#120](https://github.com/Readme-Workflows/recent-activity/pull/120#pullrequestreview-775636288) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 🔴 Requested changes in [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1#pullrequestreview-775592442) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+4. 🔴 Requested changes in [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1#pullrequestreview-775592442) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+5. 🎉 Merged PR [#320](https://github.com/Welcome-Bot/welcome-bot/pull/320) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 11:46:32:318 10/10/2021 +0000
+Last Updated: 12:43:39:896 10/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
