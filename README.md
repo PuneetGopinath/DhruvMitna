@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#322](https://github.com/Welcome-Bot/welcome-bot/pull/322) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ✔️ Closed issue [#188](https://github.com/Welcome-Bot/welcome-bot/issues/188) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. 👍 Approved [#322](https://github.com/Welcome-Bot/welcome-bot/pull/322#pullrequestreview-775687581) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. 🔴 Requested changes in [#322](https://github.com/Welcome-Bot/welcome-bot/pull/322#pullrequestreview-775687344) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. 🔴 Requested changes in [#322](https://github.com/Welcome-Bot/welcome-bot/pull/322#pullrequestreview-775687344) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. 🎉 Merged PR [#48](https://github.com/DisWeb-site/DisWeb/pull/48) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+2. 👍 Approved [#48](https://github.com/DisWeb-site/DisWeb/pull/48#pullrequestreview-775734739) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+3. 🔴 Requested changes in [#48](https://github.com/DisWeb-site/DisWeb/pull/48#pullrequestreview-775734572) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+4. 🔴 Requested changes in [#48](https://github.com/DisWeb-site/DisWeb/pull/48#pullrequestreview-775734572) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+5. 🔴 Requested changes in [#48](https://github.com/DisWeb-site/DisWeb/pull/48#pullrequestreview-775734165) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 04:44:28:783 11/10/2021 +0000
+Last Updated: 06:21:43:277 11/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
