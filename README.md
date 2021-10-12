@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#84](https://github.com/Welcome-Bot/discord-pagination/pull/84) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. 👍 Approved [#84](https://github.com/Welcome-Bot/discord-pagination/pull/84#pullrequestreview-776794608) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. 🎉 Merged PR [#324](https://github.com/Welcome-Bot/welcome-bot/pull/324) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. 👍 Approved [#324](https://github.com/Welcome-Bot/welcome-bot/pull/324#pullrequestreview-776137494) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. 🎉 Merged PR [#323](https://github.com/Welcome-Bot/welcome-bot/pull/323) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. 🎉 Merged PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+2. 💪 Opened PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+3. ❌ Closed PR [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+4. 🎉 Merged PR [#84](https://github.com/Welcome-Bot/discord-pagination/pull/84) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. 👍 Approved [#84](https://github.com/Welcome-Bot/discord-pagination/pull/84#pullrequestreview-776794608) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 16:41:51:427 12/10/2021 +0000
+Last Updated: 17:53:23:827 12/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
