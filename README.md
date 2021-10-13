@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-2. 💪 Opened PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-3. ❌ Closed PR [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-4. 🎉 Merged PR [#84](https://github.com/Welcome-Bot/discord-pagination/pull/84) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. 👍 Approved [#84](https://github.com/Welcome-Bot/discord-pagination/pull/84#pullrequestreview-776794608) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. 🎉 Merged PR [#53](https://github.com/DisWeb-site/DisWeb/pull/53) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+2. 👍 Approved [#53](https://github.com/DisWeb-site/DisWeb/pull/53#pullrequestreview-778057167) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+3. 🎉 Merged PR [#52](https://github.com/DisWeb-site/DisWeb/pull/52) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+4. 👍 Approved [#52](https://github.com/DisWeb-site/DisWeb/pull/52#pullrequestreview-778057069) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+5. 🎉 Merged PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 08:45:24:094 13/10/2021 +0000
+Last Updated: 09:48:49:590 13/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
