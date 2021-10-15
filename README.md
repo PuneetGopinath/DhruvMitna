@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#60](https://github.com/DisWeb-site/DisWeb/pull/60) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-2. 👍 Approved [#60](https://github.com/DisWeb-site/DisWeb/pull/60#pullrequestreview-780456449) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-3. ✔️ Closed issue [#58](https://github.com/DisWeb-site/DisWeb/issues/58) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-4. 🎉 Merged PR [#87](https://github.com/Welcome-Bot/discord-pagination/pull/87) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. 👍 Approved [#87](https://github.com/Welcome-Bot/discord-pagination/pull/87#pullrequestreview-780414374) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. 💪 Opened PR [#61](https://github.com/DisWeb-site/DisWeb/pull/61) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+2. 🎉 Merged PR [#60](https://github.com/DisWeb-site/DisWeb/pull/60) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+3. 👍 Approved [#60](https://github.com/DisWeb-site/DisWeb/pull/60#pullrequestreview-780456449) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+4. ✔️ Closed issue [#58](https://github.com/DisWeb-site/DisWeb/issues/58) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+5. 🎉 Merged PR [#87](https://github.com/Welcome-Bot/discord-pagination/pull/87) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 10:42:42:448 15/10/2021 +0000
+Last Updated: 11:47:20:321 15/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
