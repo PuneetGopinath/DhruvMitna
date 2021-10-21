@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1298](https://github.com/is-a-dev/register/pull/1298) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🔴 Requested changes in [#333](https://github.com/Welcome-Bot/welcome-bot/pull/333#pullrequestreview-784442063) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. 🔴 Requested changes in [#333](https://github.com/Welcome-Bot/welcome-bot/pull/333#pullrequestreview-784442063) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. 🎉 Merged PR [#63](https://github.com/DisWeb-site/DisWeb/pull/63) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-5. 👍 Approved [#63](https://github.com/DisWeb-site/DisWeb/pull/63#pullrequestreview-784348831) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+1. ❌ Closed PR [#2](https://github.com/Anshrk/user-bot/pull/2) in [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
+2. 🔱 Forked [PuneetGopinath/DFlux-Bot](https://github.com/PuneetGopinath/DFlux-Bot) from [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+3. 💪 Opened PR [#1298](https://github.com/is-a-dev/register/pull/1298) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🔴 Requested changes in [#333](https://github.com/Welcome-Bot/welcome-bot/pull/333#pullrequestreview-784442063) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. 🔴 Requested changes in [#333](https://github.com/Welcome-Bot/welcome-bot/pull/333#pullrequestreview-784442063) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 11:47:29:647 21/10/2021 +0000
+Last Updated: 12:44:21:449 21/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
