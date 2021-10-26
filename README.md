@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#98](https://github.com/Welcome-Bot/discord-pagination/pull/98) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. 👍 Approved [#98](https://github.com/Welcome-Bot/discord-pagination/pull/98#pullrequestreview-788739451) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. 💪 Opened PR [#338](https://github.com/Welcome-Bot/welcome-bot/pull/338) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. 🎉 Merged PR [#97](https://github.com/Welcome-Bot/discord-pagination/pull/97) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. 👍 Approved [#97](https://github.com/Welcome-Bot/discord-pagination/pull/97#pullrequestreview-787347389) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. 🎉 Merged PR [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. 👍 Approved [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100#pullrequestreview-788741243) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. 🎉 Merged PR [#101](https://github.com/Welcome-Bot/discord-pagination/pull/101) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. 👍 Approved [#101](https://github.com/Welcome-Bot/discord-pagination/pull/101#pullrequestreview-788741137) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. 🎉 Merged PR [#102](https://github.com/Welcome-Bot/discord-pagination/pull/102) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 06:18:23:323 26/10/2021 +0000
+Last Updated: 07:25:51:299 26/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
