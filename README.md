@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#127](https://github.com/Readme-Workflows/recent-activity/issues/127) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 💪 Opened PR [#1](https://github.com/matteotumiati/matteotumiati/pull/1) in [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
-3. 🔱 Forked [PuneetGopinath/matteotumiati](https://github.com/PuneetGopinath/matteotumiati) from [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
-4. 🔱 Forked [PuneetGopinath/matteotumiati](https://github.com/PuneetGopinath/matteotumiati) from [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
-5. 🎉 Merged PR [#103](https://github.com/Welcome-Bot/discord-pagination/pull/103) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. 🎉 Merged PR [#342](https://github.com/Welcome-Bot/welcome-bot/pull/342) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. 👍 Approved [#342](https://github.com/Welcome-Bot/welcome-bot/pull/342#pullrequestreview-792957829) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ✔️ Closed issue [#127](https://github.com/Readme-Workflows/recent-activity/issues/127) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. 💪 Opened PR [#1](https://github.com/matteotumiati/matteotumiati/pull/1) in [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
+5. 🔱 Forked [PuneetGopinath/matteotumiati](https://github.com/PuneetGopinath/matteotumiati) from [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 16:42:13:936 29/10/2021 +0000
+Last Updated: 17:53:08:124 29/10/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
