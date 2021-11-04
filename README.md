@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#344](https://github.com/Welcome-Bot/welcome-bot/pull/344) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. 👍 Approved [#344](https://github.com/Welcome-Bot/welcome-bot/pull/344#pullrequestreview-795447821) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. 👍 Approved [#344](https://github.com/Welcome-Bot/welcome-bot/pull/344#pullrequestreview-795446358) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. 🎉 Merged PR [#345](https://github.com/Welcome-Bot/welcome-bot/pull/345) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. 👍 Approved [#345](https://github.com/Welcome-Bot/welcome-bot/pull/345#pullrequestreview-795444922) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. 🎉 Merged PR [#106](https://github.com/InfusionBot/discord-pagination/pull/106) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+2. 👍 Approved [#106](https://github.com/InfusionBot/discord-pagination/pull/106#pullrequestreview-797861079) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+3. 🎉 Merged PR [#107](https://github.com/InfusionBot/discord-pagination/pull/107) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+4. 👍 Approved [#107](https://github.com/InfusionBot/discord-pagination/pull/107#pullrequestreview-797860268) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+5. 🎉 Merged PR [#105](https://github.com/InfusionBot/discord-pagination/pull/105) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 19:43:40:102 4/11/2021 +0000
+Last Updated: 20:45:33:404 4/11/2021 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
