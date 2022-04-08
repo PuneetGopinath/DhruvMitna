@@ -33,15 +33,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ✔️ Closed issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 👍 Approved [#160](https://github.com/Readme-Workflows/recent-activity/pull/160#pullrequestreview-898749375) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 🎉 Merged PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 👍 Approved [#158](https://github.com/Readme-Workflows/recent-activity/pull/158#pullrequestreview-889866725) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 🎉 Merged PR [#338](https://github.com/InfusionBot/Welcome-Bot/pull/338) in [InfusionBot/Welcome-Bot](https://github.com/InfusionBot/Welcome-Bot)
+2. ✌️ Released [Recent Activity v2.3.3 released!](https://github.com/Readme-Workflows/recent-activity/releases/tag/v2.3.3) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 🎉 Merged PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ✔️ Closed issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 👍 Approved [#160](https://github.com/Readme-Workflows/recent-activity/pull/160#pullrequestreview-898749375) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 06:38:57:578 8/04/2022 +0000
+Last Updated: 08:29:58:110 8/04/2022 +0000
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
